@@ -28,6 +28,11 @@
             }
         }
 
+        public void A()
+        {}
+
+
+
         public void MatrixB(int n, int m)
         {
             Console.ForegroundColor = ConsoleColor.Blue;
@@ -47,6 +52,7 @@
                     Console.Write(mass[i, j] + " ");
                 }
             }
+
         }
     }
 }
