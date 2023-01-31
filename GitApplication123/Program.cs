@@ -27,6 +27,7 @@
                 }
             }
         }
+
         public void MatrixB(int n, int m)
         {
             Console.ForegroundColor = ConsoleColor.Blue;
